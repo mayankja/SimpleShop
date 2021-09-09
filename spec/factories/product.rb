@@ -2,9 +2,9 @@ FactoryBot.define do
   factory :product do
     title {'tshirt'}
     description {'test'}
-    image {'swati33@yopmail.com'}
+    image {'test@yopmail.com'}
     price {10}
-    sku { "swasdfsdti" }
+    sku { "swaggsdfsdti" }
     stock_number  { "12" }
     region
   end
